@@ -120,7 +120,6 @@ Data Analytics • Cloud Computing
 ---
 
 ## Repository Structure
-## Repository Structure
 
 ```text
 cloud-analytics-housing-data-lake
